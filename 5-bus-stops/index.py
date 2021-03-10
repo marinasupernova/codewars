@@ -5,3 +5,4 @@ def number(bus_stops):
         counter += people_on_a_stop[0]
         counter -= people_on_a_stop[1]
     return counter
+
