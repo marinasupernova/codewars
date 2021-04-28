@@ -8,7 +8,6 @@ def solution(string, ending):
     else:
         return False
 
-
 print(solution('abcde', 'cde'))
 print(solution('abcde', 'abc'))
 print(solution('abcde', ''))
