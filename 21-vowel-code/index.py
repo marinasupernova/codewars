@@ -11,9 +11,7 @@ def encode(st):
 
     return output
     
-def decode(st):
-   
-
+def decode(st
     output = st
 
     output = output.replace("2", "e")
