@@ -20,4 +20,6 @@ def wave(string):
 
 # print(wave("hello"))
 print(wave("Two words"))
+
+https://www.codewars.com/kata/58f5c63f1e26ecda7e000029/train/python
     
