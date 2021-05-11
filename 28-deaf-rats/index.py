@@ -13,7 +13,6 @@ def count_deaf_rats(town):
             deaf_rats_counter += 1
         i += 2
 
-
     i = 0
     while i < len(rats_must_go_right)-1:
         rat = rats_must_go_right[i] + rats_must_go_right[i+1]
