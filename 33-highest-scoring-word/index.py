@@ -30,7 +30,7 @@ print(high('d bb'))
 print(high("aaa b"))
 print(high("aaa aaa"))
 
-sum(ord(c) - 96
 
-def high(x):
-    return max(x.split(), key=lambda k: sum(ord(c) - 96 for c in k))
+
+#  ord(char) - 96 => index of symbol in alphabet
+
