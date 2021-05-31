@@ -17,7 +17,6 @@ def sort_names(s):
 
     return sorted_names
 
-
 print(sort_names("John:Gates;Michael:Wahl;Megan:Bell;Paul:Dorries;James:Dorny;Lewis:Steve;Alex:Meta;Elizabeth:Russel;Anna:Korn;Ann:Kern;Amber:Cornwell")) 
 #print(sort_names("Alex:Arno;Alissa:Cornwell;Sarah:Bell;Andrew:Dorries;Ann:Kern;Haley:Arno;Paul:Dorny;Madison:Kern"))
 '(ARNO, ANN), (BELL, JOHN), (CORNWELL, ALEX), (DORNY, ABBA), (KERN, LEWIS), (KORN, ALEX), (META, GRACE), (SCHWARZ, VICTORIA), (STAN, MADISON), (STAN, MEGAN), (WAHL, ALEXIS)' should equal 
